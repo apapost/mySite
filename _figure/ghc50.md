@@ -7,14 +7,13 @@ caption: Φωτεινή, 5-ιντσών οθόνη αφής ειδικά σχε�
 license_url: "https://garmin.gr/product/ghc-50-kontrol-pilotou/" 
 license_text: GARMIN 
 categories:
-  - Διάδραση Ανθρώπου-Υπολογιστή (HCI)
-  - Διάχυτος Υπολογισμός (Ubiquitous/Pervasive Computing)
-  - Κινητές & Φορητές Συσκευές
-  - Πλοήγηση & Ενσωματωμένα Συστήματα (Navigation & Embedded Systems)
+  - Θαλάσσια Ηλεκτρονικά (Marine Electronics)
+  - Συστήματα Αυτόματου Πιλότου (Autopilot Systems)
+  - Όργανα Πλοήγησης & Ελέγχου
+  - Διεπαφές Αφής (Touchscreen Interfaces)
 tags:
-  - Διεπαφή Χρήστη
-  - Φορετές Συσκευές
-  - Αισθητήρες
-  - Έξυπνα Αντικείμενα
-  - GPS
+  - Αυτόματος Πιλότος
+  - Πλοήγηση
+  - Οθόνη Ελέγχου
+  - Θαλάσσιο GPS
 ---
