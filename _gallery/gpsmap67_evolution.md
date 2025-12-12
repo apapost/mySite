@@ -3,5 +3,5 @@ title: Εξέλιξη φορητού πλοηγού
 image_url: /images/gpsmap67.jpg
 caption: Ο Garmin GPSMAP 67i αποτελεί τον διάδοχο του επιτυχημένου μοντέλου GPSMAP 66i. Η εξέλιξη εστιάζει κυρίως στην αυτονομία και στην ακρίβεια της θέσης. Χρησιμοποιεί θύρα USB-C και είναι συμβατός με τη νέα εφαρμογή Garmin Messenger app για δορυφορική επικοινωνία.
 gallery:
-  - portable navigator 
+  - gpsmap67 
 ---
