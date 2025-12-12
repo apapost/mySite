@@ -16,5 +16,6 @@ events:
   - olpc-classroom
   - apple-iphone
   - wearable
+  - ghc50
 ---
 
