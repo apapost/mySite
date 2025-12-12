@@ -1,6 +1,6 @@
 ---
 title: Εξέλιξη οθόνης αυτόματου πιλότου
-image_url: /mySite/images/ghc50.jpg
+image_url: /images/ghc50.jpg
 caption: Η συσκευή Garmin GHC 50 αντικαθιστά το προηγούμενο μοντέλο GHC 20 και αντιπροσωπεύει τη στροφή των θαλάσσιων ηλεκτρονικών προς τις διεπαφές αφής και την αισθητική ενσωμάτωση.
 gallery:
   - autopilot screens 
