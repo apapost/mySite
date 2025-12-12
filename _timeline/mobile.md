@@ -17,5 +17,6 @@ events:
   - apple-iphone
   - wearable
   - ghc50
+  - gpsmap67
 ---
 
