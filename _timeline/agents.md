@@ -7,6 +7,5 @@ events:
   - eliza-chat-bot 
   - predictive-text
   - knowledge-navigator
-  - ghc50
 ---
 
