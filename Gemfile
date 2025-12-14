@@ -9,8 +9,9 @@ source "https://rubygems.org"
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
 #
-gem 'jekyll'
-gem 'minimal-mistakes-jekyll'
+gem 'jekyll', '~> 4.3'
+gem 'minimal-mistakes-jekyll', '~> 4.24'
+gem 'webrick'
 
 # Github Pages deployment
 # gem "github-pages", group: :jekyll_plugins
