@@ -17,3 +17,7 @@ ehthumbs.db
 Thumbs.db
 
 tst
+
+# Local bundler/Jekyll
+.bundle/
+vendor/
